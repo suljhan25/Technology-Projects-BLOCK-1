@@ -1,3 +1,4 @@
+
 # 🧪 Task 1 — CPU Speed Test
 
 ### 1️⃣ Run this Python script:
@@ -24,4 +25,6 @@ vcgencmd measure_temp
 ```
 - CPU usage in `htop`
 
-📁 Save results in `results/cpu.txt`
+📁 Save results in `results/cpu.txt
+
+<img width="566" height="730" alt="Screenshot 2026-11-13 110234" src="https://github.com/user-attachments/assets/bc7ab94e-5a4b-4c08-9c1b-a525b95d8c94" />
